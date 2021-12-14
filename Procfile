@@ -1,1 +1,1 @@
-web:gunicorn app:app
+web: python heart_disease_app.py
